@@ -1,5 +1,3 @@
-Android 红包问答群 459232356
-
 **五次元妹子** 是一款看妹子的APP ([获取apk](https://github.com/DanteAndroid/Beauty/releases)）
 ---
 
