@@ -21,8 +21,8 @@ A: 我研究过[这样的效果](http://stackoverflow.com/questions/27304834/vie
 
 ## Introduction
 通过这个项目，您可以学到不少知识，欢迎大家和我一起讨论。<br>
-  realm数据库<br>
-  Rxjava<br>
+realm数据库<br>
+Rxjava<br>
   ...
 
 ## Support
