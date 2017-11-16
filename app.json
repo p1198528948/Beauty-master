@@ -1,0 +1,9 @@
+{
+	"lastest_version": "v1.0.3",
+	"lastest_version_code": 7,
+	"former_version": "v1.0.2",
+	"forceUpdate": true,
+	"message": " - Fix nullpointer bug;\n  - Code optimized.",
+	"share_app_description": "这个软件不错，图片适合做壁纸。https://github.com/DanteAndroid/Beauty/",
+	"apk_name":"app-armeabi-v7a-release.apk"
+}

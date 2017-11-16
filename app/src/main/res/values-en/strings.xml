@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Beauty of Dimension</string>
+    <string name="about">About</string>
+    <string name="menu_settings">Settings</string>
+    <string name="contact_me">Contact me</string>
+    <string name="load_fail">Oops, something happened with the network.</string>
+    <string name="loading">Loading hard…</string>
+    <string name="action_share">Share</string>
+    <string name="original_splash">Original splash</string>
+    <string name="set_check_version">Check version</string>
+    <string name="set_clear_cache">Clear cache</string>
+    <string name="set_current_cache">Current cache is</string>
+    <string name="set_feedback">Feedback</string>
+    <string name="set_post_feedback">Give advice or post bugs</string>
+    <string name="activity_settings">Settings</string>
+    <string name="about_me_description">I\'m android developer who loves Google. If you got any idea
+        or advice, don\'t hesitate to contact me :)
+    </string>
+    <string name="app">APP</string>
+    <string name="share_to">Share to</string>
+    <string name="version">Version</string>
+    <string name="column_not_available">Not available now, please update or contact with me :D
+    </string>
+    <string name="menu_share">Share</string>
+    <string name="license">licence</string>
+    <string name="license_description">All the resources are from network, if it has become an
+        infringement, please inform the original web: http://www.dbmeinv.com, http://www.apic.in/
+    </string>
+    <string name="clear_cache_failed">Fail to delete cache.</string>
+    <string name="clear_cache_success">Cache cleared.</string>
+    <string name="set_original_splash">Use orignial splash instead of getting from net</string>
+    <string name="about_me">About author</string>
+    <string name="share_app_description">This android repository is nice :)
+        https://github.com/DanteAndroid/Beauty/
+    </string>
+    <string name="share_app">Share App</string>
+    <string name="tips">Tips</string>
+    <string name="tips_content">When browsing down deep in the app, press the title to return top
+        quickly
+    </string>
+    <string name="hottest">Today Hotest</string>
+    <string name="close_app">close app</string>
+    <string name="h_beauty">Asia</string>
+    <string name="h_original">Silk</string>
+    <string name="h_selfie">Selfie</string>
+    <string name="h_exposure">Street</string>
+    <string name="secret_mode_closed">Secret mode closed.</string>
+    <string name="secret_mode_opened">Secret mode is open, let\'s rock~</string>
+    <string name="can_not_find_version_name">Unable to get version</string>
+    <string name="try_again">You must kidding</string>
+    <string name="load_no_result">Oooops, girls are too shy to show.</string>
+    <string name="save_img_failed">Unable to save image.</string>
+    <string name="save_img_success">Girl is saved.</string>
+    <string name="view_img_hint">Pull down to exit; Long press the girl to save to local.</string>
+    <string name="save_img">Save</string>
+    <string name="leave_app">Are you sure to leave?</string>
+    <string name="email_not_install">Email client not installed.</string>
+    <string name="activity_detail">Detail</string>
+    <string name="browse_picture_hint">Long press to share/save it when browsing pictures.</string>
+    <string name="hint">Hint</string>
+    <string name="empty">empty</string>
+    <string name="clear_finished">Clear finished.</string>
+    <string name="deep_clean">Deep clean</string>
+    <string name="app_info">About this app</string>
+    <string name="feedback_description">Any idea or advice would be appreciated.</string>
+    <string name="donate">Donate</string>
+    <string name="nav_a_zone">Anime</string>
+    <string name="nav_beauty">Beauties</string>
+    <string-array name="db_titles">
+        <item name="gank">Gank</item>
+        <item name="db_rank">Rank</item>
+        <item name="db_breast">Breast</item>
+        <item name="db_butt">Butt</item>
+        <item name="db_leg">Leg</item>
+        <item name="db_silk">Silk</item>
+    </string-array>
+    <string-array name="a_titles">
+        <item name="a_anime">Anime</item>
+        <item name="a_fuli">Fuli</item>
+        <item name="a_hentai">Hentai</item>
+        <item name="a_uniform">Uniform</item>
+        <item name="a_zatu">Zatu</item>
+    </string-array>
+    <string name="empty_content">Nothing here :P</string>
+    <string name="favorite">My Collections</string>
+    <string name="images_empty">Hmm, no content here, go like something :)</string>
+    <string name="set_like_download">Save picture when like it</string>
+    <string name="thanks_for_donation">You can open secret pictures section after donation! (please
+        send email to 502273376@qq.com then)
+    </string>
+    <string name="theme_choose">Choose color you like</string>
+    <string name="theme_color">Theme color</string>
+    <string name="update_message">Update log：\n\n%s</string>
+    <string name="downloading">Downloading…</string>
+    <string name="new_version">New version found</string>
+    <string name="install_hint">Current version is debug, update will fail because of different
+        signature. Uninstall and reinstall then.
+    </string>
+    <string name="alipay_not_found">Alipay not found. Please add my wechat, which has been copied to
+        the clipboard:)
+    </string>
+    <string name="update">Update now</string>
+    <string name="net_error">Load failed too much times, is your network stable?</string>
+    <string name="set_wallpaper_failed">Fail to set wallpaper</string>
+    <string name="set_wallpaper">Set as wallpaper</string>
+    <string name="net_error_detail">Learn more</string>
+    <string name="is_loading">Loading now, go have a drink</string>
+    <string name="dont_hint">No more hint</string>
+    <string name="retry">retry</string>
+    <string name="picture_load_fail">Can\'t load the picture</string>
+    <string name="developer_info">About developer</string>
+    <string name="energy_conservation_mode">Energy conservation mode</string>
+</resources>

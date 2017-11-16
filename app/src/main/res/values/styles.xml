@@ -1,0 +1,61 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="windowActionModeOverlay">true</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowBackground">@drawable/window_background</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar.FullScreen">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowBackground">@null</item>
+    </style>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+
+    <style name="ViewerTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <!--<item name="android:colorBackgroundCacheHint">@null</item>-->
+        <!--<item name="android:windowBackground">@android:color/transparent</item>-->
+    </style>
+
+    <style name="Translucent" parent="AppTheme.NoActionBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+    <style name="ViewerTheme.TransNav">
+    </style>
+
+    <style name="SlideDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowAnimationStyle">@style/SlideDialogAnimation</item>
+    </style>
+
+    <style name="SlideDialogAnimation">
+        <item name="android:windowEnterAnimation">@android:anim/slide_in_left</item>
+        <item name="android:windowExitAnimation">@android:anim/slide_out_right</item>
+    </style>
+
+    <style name="ContentTextStyle">
+        <item name="android:padding">16dp</item>
+        <item name="android:textSize">@dimen/text_body</item>
+        <item name="android:textColor">@color/black_87pc</item>
+    </style>
+    <style name="TitleTextStyle">
+        <item name="android:padding">16dp</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:textSize">@dimen/text_body</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>

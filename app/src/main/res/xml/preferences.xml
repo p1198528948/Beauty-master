@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+>
+    <PreferenceCategory android:title="@string/app">
+        <Preference
+            android:key="clear_cache"
+            android:summary="@string/set_current_cache"
+            android:title="@string/set_clear_cache"/>
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="original_splash"
+            android:summary="@string/set_original_splash"
+            android:title="@string/original_splash"/>
+        <SwitchPreference
+            android:defaultValue="true"
+            android:key="like_download"
+            android:title="@string/set_like_download"/>
+
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="energy_conservation_mode"
+            android:title="@string/energy_conservation_mode"/>
+
+        <Preference
+            android:key="theme_color"
+            android:summary="@string/theme_choose"
+            android:title="@string/theme_color"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/about">
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="check_version"
+            android:title="@string/set_check_version"/>
+        <Preference
+            android:key="feedback"
+            android:summary="@string/feedback_description"
+            android:title="@string/set_feedback"/>
+        <Preference
+            android:key="about"
+            android:title="@string/app_info"/>
+        <Preference
+            android:key="developer_info"
+            android:summary="Developer message"
+            android:title="@string/developer_info"/>
+    </PreferenceCategory>
+</PreferenceScreen>
+
+<!-- 设置界面 -->
