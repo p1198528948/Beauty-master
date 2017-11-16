@@ -20,11 +20,11 @@ A: 我建议你了解下[Rxjava](http://gank.io/post/560e15be2dca930e00da1083)�
 A: 我研究过[这样的效果](http://stackoverflow.com/questions/27304834/viewpager-fragments-shared-element-transitions)，但是最终即使是照搬别的项目的代码还是失败了。请知道怎么写的务必教教我。
 
 ## Introduction
-通过这个项目，您可以学到不少知识，欢迎大家和我一起讨论。
-  realm数据库
-  Rxjava
+通过这个项目，您可以学到不少知识，欢迎大家和我一起讨论。<br>
+  realm数据库<br>
+  Rxjava<br>
   ...
 
 ## Support
-如果你喜欢这个repository，我会让它更完美~
+如果你喜欢这个repository，我会让它更完美~<br>
 QQ:1198528948
